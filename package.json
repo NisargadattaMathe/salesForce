@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/nisargadattamathe.lwc-l6i72jvk-fork-l6i7p6p0",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve XgUEQpmr5trPJQ3IWRXc --open"
+  }
+}
